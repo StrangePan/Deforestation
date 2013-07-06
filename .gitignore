@@ -7,3 +7,5 @@
 /bin
 /.classpath
 /.project
+/dist
+/build.jardesc
